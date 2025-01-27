@@ -29,6 +29,14 @@ The project is organized into the following sections:
 3. **Interpreting the Results:**
    - Review the generated outputs, including tables, charts, and recommendations.
    - Use the insights to make informed decisions about resource allocation and cost management.
+     ![Image](https://github.com/user-attachments/assets/c271c623-2d53-4dc0-9594-603953910f31)
+
+![Image](https://github.com/user-attachments/assets/31be741a-b6da-4722-809f-6a5ecbe8b9ce)
+
+![Image](https://github.com/user-attachments/assets/4db5862c-0963-4dc4-b004-81384e713495)
+
+![Image](https://github.com/user-attachments/assets/e3121e2c-54d2-483e-98c7-eb42b58e7fbc)
+
 
 ## Dependencies
 
@@ -36,10 +44,3 @@ The project is organized into the following sections:
 - pandas
 - matplotlib
 
-## Contributing
-
-Feel free to contribute to this project by suggesting improvements or adding new features. 
-
-## License
-
-This project is licensed under the MIT License.
